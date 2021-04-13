@@ -1,0 +1,25 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color:aliceblue;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    background-color:ivory;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: khaki;
+    display:flex;
+    justify-content:baseline ;
+    align-items: baseline;
+}
